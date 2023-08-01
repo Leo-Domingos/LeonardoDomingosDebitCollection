@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/c/Users/leonardodomingos/LeonardoDomingosKearney/mlruns/133357003393510513/4e03d176a66a452d937b28e99eba1540/artifacts
+deleted_time: 1690838418585
+end_time: 1690838369160
+entry_point_name: ''
+experiment_id: '133357003393510513'
+lifecycle_stage: deleted
+run_id: 4e03d176a66a452d937b28e99eba1540
+run_name: gentle-stoat-388
+run_uuid: 4e03d176a66a452d937b28e99eba1540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690838364794
+status: 3
+tags: []
+user_id: leodomingos

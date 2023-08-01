@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/leonardodomingos/LeonardoDomingosKearney/mlruns/133357003393510513/2564b9c8fc54426da1e3bdaca26840ee/artifacts
+end_time: 1690842795131
+entry_point_name: ''
+experiment_id: '133357003393510513'
+lifecycle_stage: active
+run_id: 2564b9c8fc54426da1e3bdaca26840ee
+run_name: adaptable-skunk-203
+run_uuid: 2564b9c8fc54426da1e3bdaca26840ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690842794452
+status: 4
+tags: []
+user_id: leodomingos

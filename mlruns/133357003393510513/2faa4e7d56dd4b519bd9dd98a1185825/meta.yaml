@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/c/Users/leonardodomingos/LeonardoDomingosKearney/mlruns/133357003393510513/2faa4e7d56dd4b519bd9dd98a1185825/artifacts
+deleted_time: 1690838418585
+end_time: 1690838163378
+entry_point_name: ''
+experiment_id: '133357003393510513'
+lifecycle_stage: deleted
+run_id: 2faa4e7d56dd4b519bd9dd98a1185825
+run_name: adaptable-fly-714
+run_uuid: 2faa4e7d56dd4b519bd9dd98a1185825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690838159108
+status: 3
+tags: []
+user_id: leodomingos

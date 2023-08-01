@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/leonardodomingos/LeonardoDomingosKearney/mlruns/133357003393510513/8ad77a9a51044caaaff44d3d10438682/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '133357003393510513'
+lifecycle_stage: active
+run_id: 8ad77a9a51044caaaff44d3d10438682
+run_name: handsome-koi-57
+run_uuid: 8ad77a9a51044caaaff44d3d10438682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690843207307
+status: 1
+tags: []
+user_id: leodomingos

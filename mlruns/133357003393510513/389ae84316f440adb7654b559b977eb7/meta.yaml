@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/leonardodomingos/LeonardoDomingosKearney/mlruns/133357003393510513/389ae84316f440adb7654b559b977eb7/artifacts
+end_time: 1690843492950
+entry_point_name: ''
+experiment_id: '133357003393510513'
+lifecycle_stage: active
+run_id: 389ae84316f440adb7654b559b977eb7
+run_name: valuable-mouse-383
+run_uuid: 389ae84316f440adb7654b559b977eb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690843469103
+status: 3
+tags: []
+user_id: leodomingos

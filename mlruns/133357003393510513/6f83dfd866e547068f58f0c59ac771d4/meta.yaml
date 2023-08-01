@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/leonardodomingos/LeonardoDomingosKearney/mlruns/133357003393510513/6f83dfd866e547068f58f0c59ac771d4/artifacts
+end_time: 1690838041256
+entry_point_name: ''
+experiment_id: '133357003393510513'
+lifecycle_stage: active
+run_id: 6f83dfd866e547068f58f0c59ac771d4
+run_name: puzzled-sloth-831
+run_uuid: 6f83dfd866e547068f58f0c59ac771d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690838040078
+status: 3
+tags: []
+user_id: leodomingos
