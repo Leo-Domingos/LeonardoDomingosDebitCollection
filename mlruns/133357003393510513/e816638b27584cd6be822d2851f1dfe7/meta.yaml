@@ -1,8 +1,9 @@
 artifact_uri: file:///mnt/c/Users/leonardodomingos/LeonardoDomingosKearney/mlruns/133357003393510513/e816638b27584cd6be822d2851f1dfe7/artifacts
+deleted_time: 1690894032550
 end_time: 1690842831969
 entry_point_name: ''
 experiment_id: '133357003393510513'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e816638b27584cd6be822d2851f1dfe7
 run_name: bright-seal-666
 run_uuid: e816638b27584cd6be822d2851f1dfe7

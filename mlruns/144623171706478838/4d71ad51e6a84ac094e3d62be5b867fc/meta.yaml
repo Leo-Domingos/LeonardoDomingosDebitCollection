@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/144623171706478838/4d71ad51e6a84ac094e3d62be5b867fc/artifacts
+end_time: 1691041201001
+entry_point_name: ''
+experiment_id: '144623171706478838'
+lifecycle_stage: active
+run_id: 4d71ad51e6a84ac094e3d62be5b867fc
+run_name: sassy-slug-939
+run_uuid: 4d71ad51e6a84ac094e3d62be5b867fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691041152751
+status: 3
+tags: []
+user_id: leonardodomingos

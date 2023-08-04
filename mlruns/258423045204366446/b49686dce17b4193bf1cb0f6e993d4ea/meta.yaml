@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/258423045204366446/b49686dce17b4193bf1cb0f6e993d4ea/artifacts
+end_time: 1691009921573
+entry_point_name: ''
+experiment_id: '258423045204366446'
+lifecycle_stage: active
+run_id: b49686dce17b4193bf1cb0f6e993d4ea
+run_name: monumental-crane-541
+run_uuid: b49686dce17b4193bf1cb0f6e993d4ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691009891342
+status: 3
+tags: []
+user_id: leonardodomingos

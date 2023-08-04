@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/248936078021947340/abdef789441c49429bf5e7213a3503d6/artifacts
+end_time: 1690937832128
+entry_point_name: ''
+experiment_id: '248936078021947340'
+lifecycle_stage: active
+run_id: abdef789441c49429bf5e7213a3503d6
+run_name: marvelous-seal-930
+run_uuid: abdef789441c49429bf5e7213a3503d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690937715962
+status: 3
+tags: []
+user_id: leonardodomingos

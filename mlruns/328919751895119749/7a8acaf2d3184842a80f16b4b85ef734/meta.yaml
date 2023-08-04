@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/328919751895119749/7a8acaf2d3184842a80f16b4b85ef734/artifacts
+end_time: 1691085278015
+entry_point_name: ''
+experiment_id: '328919751895119749'
+lifecycle_stage: active
+run_id: 7a8acaf2d3184842a80f16b4b85ef734
+run_name: bustling-dog-45
+run_uuid: 7a8acaf2d3184842a80f16b4b85ef734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691084053630
+status: 3
+tags: []
+user_id: leonardodomingos

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/leonardodomingos/LeonardoDomingosKearney/mlruns/133357003393510513/bcc05d05313347bfbcfa1f7778786641/artifacts
+end_time: 1690892683972
+entry_point_name: ''
+experiment_id: '133357003393510513'
+lifecycle_stage: active
+run_id: bcc05d05313347bfbcfa1f7778786641
+run_name: languid-horse-226
+run_uuid: bcc05d05313347bfbcfa1f7778786641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690891630181
+status: 3
+tags: []
+user_id: leonardodomingos

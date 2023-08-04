@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/258423045204366446/910a0de5e4a341eb81806a8317845957/artifacts
+deleted_time: 1691022589058
+end_time: 1690994017576
+entry_point_name: ''
+experiment_id: '258423045204366446'
+lifecycle_stage: deleted
+run_id: 910a0de5e4a341eb81806a8317845957
+run_name: clean-steed-146
+run_uuid: 910a0de5e4a341eb81806a8317845957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690994017544
+status: 4
+tags: []
+user_id: leonardodomingos

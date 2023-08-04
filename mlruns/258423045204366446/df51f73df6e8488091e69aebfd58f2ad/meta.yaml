@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/258423045204366446/df51f73df6e8488091e69aebfd58f2ad/artifacts
+deleted_time: 1691022589060
+end_time: 1690994001981
+entry_point_name: ''
+experiment_id: '258423045204366446'
+lifecycle_stage: deleted
+run_id: df51f73df6e8488091e69aebfd58f2ad
+run_name: youthful-cat-928
+run_uuid: df51f73df6e8488091e69aebfd58f2ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690993981106
+status: 4
+tags: []
+user_id: leonardodomingos

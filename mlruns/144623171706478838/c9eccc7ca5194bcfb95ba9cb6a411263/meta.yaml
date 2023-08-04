@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/144623171706478838/c9eccc7ca5194bcfb95ba9cb6a411263/artifacts
+deleted_time: 1691029650064
+end_time: 1691029389596
+entry_point_name: ''
+experiment_id: '144623171706478838'
+lifecycle_stage: deleted
+run_id: c9eccc7ca5194bcfb95ba9cb6a411263
+run_name: spiffy-sheep-202
+run_uuid: c9eccc7ca5194bcfb95ba9cb6a411263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691029368450
+status: 3
+tags: []
+user_id: leonardodomingos

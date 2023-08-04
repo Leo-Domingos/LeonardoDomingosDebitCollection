@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/144623171706478838/508af0b4f49b4c7eb4635b4a2e8b3658/artifacts
+end_time: 1691041152740
+entry_point_name: ''
+experiment_id: '144623171706478838'
+lifecycle_stage: active
+run_id: 508af0b4f49b4c7eb4635b4a2e8b3658
+run_name: burly-mare-759
+run_uuid: 508af0b4f49b4c7eb4635b4a2e8b3658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691041121568
+status: 3
+tags: []
+user_id: leonardodomingos

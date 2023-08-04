@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/328919751895119749/ab48785c5f9748c9a306ae03ace6f6dc/artifacts
+end_time: 1691079016699
+entry_point_name: ''
+experiment_id: '328919751895119749'
+lifecycle_stage: active
+run_id: ab48785c5f9748c9a306ae03ace6f6dc
+run_name: chill-donkey-132
+run_uuid: ab48785c5f9748c9a306ae03ace6f6dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691075693917
+status: 3
+tags: []
+user_id: leonardodomingos

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/144623171706478838/af345b841d544215a6cb74c4c0529f66/artifacts
+deleted_time: 1691029650071
+end_time: 1691029368424
+entry_point_name: ''
+experiment_id: '144623171706478838'
+lifecycle_stage: deleted
+run_id: af345b841d544215a6cb74c4c0529f66
+run_name: debonair-snail-855
+run_uuid: af345b841d544215a6cb74c4c0529f66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691023686695
+status: 3
+tags: []
+user_id: leonardodomingos

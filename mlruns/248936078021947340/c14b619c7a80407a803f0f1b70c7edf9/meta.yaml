@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/248936078021947340/c14b619c7a80407a803f0f1b70c7edf9/artifacts
+end_time: 1690989522361
+entry_point_name: ''
+experiment_id: '248936078021947340'
+lifecycle_stage: active
+run_id: c14b619c7a80407a803f0f1b70c7edf9
+run_name: able-bass-58
+run_uuid: c14b619c7a80407a803f0f1b70c7edf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690989512094
+status: 4
+tags: []
+user_id: leonardodomingos

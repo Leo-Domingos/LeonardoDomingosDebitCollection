@@ -1,8 +1,9 @@
 artifact_uri: file:///mnt/c/Users/leonardodomingos/LeonardoDomingosKearney/mlruns/133357003393510513/347d3b77615746988b820b2d2f0d02f9/artifacts
+deleted_time: 1690894032535
 end_time: 1690843207090
 entry_point_name: ''
 experiment_id: '133357003393510513'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 347d3b77615746988b820b2d2f0d02f9
 run_name: wistful-auk-226
 run_uuid: 347d3b77615746988b820b2d2f0d02f9

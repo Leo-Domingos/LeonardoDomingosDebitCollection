@@ -1,8 +1,9 @@
 artifact_uri: file:///mnt/c/Users/leonardodomingos/LeonardoDomingosKearney/mlruns/133357003393510513/389ae84316f440adb7654b559b977eb7/artifacts
+deleted_time: 1690894032534
 end_time: 1690843492950
 entry_point_name: ''
 experiment_id: '133357003393510513'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 389ae84316f440adb7654b559b977eb7
 run_name: valuable-mouse-383
 run_uuid: 389ae84316f440adb7654b559b977eb7

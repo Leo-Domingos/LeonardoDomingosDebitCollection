@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/328919751895119749/d9e1d1baf81a43c990a7c90067ee16ee/artifacts
+end_time: 1691085295882
+entry_point_name: ''
+experiment_id: '328919751895119749'
+lifecycle_stage: active
+run_id: d9e1d1baf81a43c990a7c90067ee16ee
+run_name: capricious-perch-251
+run_uuid: d9e1d1baf81a43c990a7c90067ee16ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691085278031
+status: 3
+tags: []
+user_id: leonardodomingos

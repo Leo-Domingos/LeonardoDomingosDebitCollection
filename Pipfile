@@ -12,6 +12,8 @@ pyarrow = "*"
 xgboost = "*"
 hyperopt = "*"
 mlflow = "*"
+jinja2 = "*"
+imblearn = "*"
 
 [dev-packages]
 ipykernel = "*"

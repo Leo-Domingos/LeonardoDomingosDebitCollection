@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/258423045204366446/51443f25cda748388c12ad4a7d5fde5e/artifacts
+deleted_time: 1690989917323
+end_time: 1690989858527
+entry_point_name: ''
+experiment_id: '258423045204366446'
+lifecycle_stage: deleted
+run_id: 51443f25cda748388c12ad4a7d5fde5e
+run_name: wise-newt-309
+run_uuid: 51443f25cda748388c12ad4a7d5fde5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690989555282
+status: 4
+tags: []
+user_id: leonardodomingos

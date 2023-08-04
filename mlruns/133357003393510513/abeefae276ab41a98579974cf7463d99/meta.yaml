@@ -1,8 +1,9 @@
 artifact_uri: file:///mnt/c/Users/leonardodomingos/LeonardoDomingosKearney/mlruns/133357003393510513/abeefae276ab41a98579974cf7463d99/artifacts
+deleted_time: 1690894032548
 end_time: 1690842916179
 entry_point_name: ''
 experiment_id: '133357003393510513'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: abeefae276ab41a98579974cf7463d99
 run_name: gaudy-rook-120
 run_uuid: abeefae276ab41a98579974cf7463d99

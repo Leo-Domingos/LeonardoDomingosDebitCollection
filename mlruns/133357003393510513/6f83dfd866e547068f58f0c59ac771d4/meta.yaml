@@ -1,8 +1,9 @@
 artifact_uri: file:///mnt/c/Users/leonardodomingos/LeonardoDomingosKearney/mlruns/133357003393510513/6f83dfd866e547068f58f0c59ac771d4/artifacts
+deleted_time: 1690894032565
 end_time: 1690838041256
 entry_point_name: ''
 experiment_id: '133357003393510513'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6f83dfd866e547068f58f0c59ac771d4
 run_name: puzzled-sloth-831
 run_uuid: 6f83dfd866e547068f58f0c59ac771d4

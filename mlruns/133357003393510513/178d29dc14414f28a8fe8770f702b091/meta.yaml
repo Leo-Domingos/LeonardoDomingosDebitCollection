@@ -1,8 +1,9 @@
 artifact_uri: file:///mnt/c/Users/leonardodomingos/LeonardoDomingosKearney/mlruns/133357003393510513/178d29dc14414f28a8fe8770f702b091/artifacts
+deleted_time: 1690894032549
 end_time: 1690842874786
 entry_point_name: ''
 experiment_id: '133357003393510513'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 178d29dc14414f28a8fe8770f702b091
 run_name: chill-mole-781
 run_uuid: 178d29dc14414f28a8fe8770f702b091

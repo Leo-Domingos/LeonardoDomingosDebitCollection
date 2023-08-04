@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/144623171706478838/e72ba011ed03443fbe15e5ad32fc58b9/artifacts
+deleted_time: 1691029650033
+end_time: 1691029642067
+entry_point_name: ''
+experiment_id: '144623171706478838'
+lifecycle_stage: deleted
+run_id: e72ba011ed03443fbe15e5ad32fc58b9
+run_name: beautiful-moose-880
+run_uuid: e72ba011ed03443fbe15e5ad32fc58b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691029420534
+status: 4
+tags: []
+user_id: leonardodomingos

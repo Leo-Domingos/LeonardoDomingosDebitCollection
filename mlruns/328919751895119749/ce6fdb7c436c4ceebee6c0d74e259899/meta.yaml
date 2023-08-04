@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/328919751895119749/ce6fdb7c436c4ceebee6c0d74e259899/artifacts
+end_time: 1691079055055
+entry_point_name: ''
+experiment_id: '328919751895119749'
+lifecycle_stage: active
+run_id: ce6fdb7c436c4ceebee6c0d74e259899
+run_name: burly-fowl-115
+run_uuid: ce6fdb7c436c4ceebee6c0d74e259899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691079037426
+status: 3
+tags: []
+user_id: leonardodomingos

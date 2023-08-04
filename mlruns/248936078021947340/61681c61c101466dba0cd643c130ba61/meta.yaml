@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/248936078021947340/61681c61c101466dba0cd643c130ba61/artifacts
+end_time: 1690917871625
+entry_point_name: ''
+experiment_id: '248936078021947340'
+lifecycle_stage: active
+run_id: 61681c61c101466dba0cd643c130ba61
+run_name: selective-ape-745
+run_uuid: 61681c61c101466dba0cd643c130ba61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690917871598
+status: 4
+tags: []
+user_id: leonardodomingos

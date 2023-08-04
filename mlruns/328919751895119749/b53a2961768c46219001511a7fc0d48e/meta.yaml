@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/328919751895119749/b53a2961768c46219001511a7fc0d48e/artifacts
+end_time: 1691085891832
+entry_point_name: ''
+experiment_id: '328919751895119749'
+lifecycle_stage: active
+run_id: b53a2961768c46219001511a7fc0d48e
+run_name: big-lamb-692
+run_uuid: b53a2961768c46219001511a7fc0d48e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691085315949
+status: 3
+tags: []
+user_id: leonardodomingos

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/144623171706478838/18bb8659d3d1485591020c801b33b68a/artifacts
+end_time: 1691041121538
+entry_point_name: ''
+experiment_id: '144623171706478838'
+lifecycle_stage: active
+run_id: 18bb8659d3d1485591020c801b33b68a
+run_name: resilient-crab-592
+run_uuid: 18bb8659d3d1485591020c801b33b68a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691029818150
+status: 3
+tags: []
+user_id: leonardodomingos

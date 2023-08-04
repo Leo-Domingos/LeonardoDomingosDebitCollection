@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/144623171706478838/fd00a8a14dd34d02ac333e9b00af35fa/artifacts
+end_time: 1691045391224
+entry_point_name: ''
+experiment_id: '144623171706478838'
+lifecycle_stage: active
+run_id: fd00a8a14dd34d02ac333e9b00af35fa
+run_name: gifted-ape-961
+run_uuid: fd00a8a14dd34d02ac333e9b00af35fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691044945174
+status: 3
+tags: []
+user_id: leonardodomingos

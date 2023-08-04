@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/248936078021947340/9dc960dcb4f9432ca8bd5eef13063d04/artifacts
+end_time: 1690937715952
+entry_point_name: ''
+experiment_id: '248936078021947340'
+lifecycle_stage: active
+run_id: 9dc960dcb4f9432ca8bd5eef13063d04
+run_name: amazing-tern-256
+run_uuid: 9dc960dcb4f9432ca8bd5eef13063d04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690937694534
+status: 3
+tags: []
+user_id: leonardodomingos

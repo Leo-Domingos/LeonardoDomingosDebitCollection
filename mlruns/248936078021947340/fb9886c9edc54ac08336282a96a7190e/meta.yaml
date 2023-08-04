@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/248936078021947340/fb9886c9edc54ac08336282a96a7190e/artifacts
+end_time: 1690938232105
+entry_point_name: ''
+experiment_id: '248936078021947340'
+lifecycle_stage: active
+run_id: fb9886c9edc54ac08336282a96a7190e
+run_name: upbeat-zebra-67
+run_uuid: fb9886c9edc54ac08336282a96a7190e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690937832138
+status: 3
+tags: []
+user_id: leonardodomingos

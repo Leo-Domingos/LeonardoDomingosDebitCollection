@@ -1,8 +1,9 @@
 artifact_uri: file:///mnt/c/Users/leonardodomingos/LeonardoDomingosKearney/mlruns/133357003393510513/0026f027afa842c9a159f3d802f94998/artifacts
+deleted_time: 1690894032533
 end_time: null
 entry_point_name: ''
 experiment_id: '133357003393510513'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0026f027afa842c9a159f3d802f94998
 run_name: funny-roo-240
 run_uuid: 0026f027afa842c9a159f3d802f94998

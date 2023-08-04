@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/258423045204366446/64ca9efffbc84307b96257204292de34/artifacts
+end_time: 1691009891309
+entry_point_name: ''
+experiment_id: '258423045204366446'
+lifecycle_stage: active
+run_id: 64ca9efffbc84307b96257204292de34
+run_name: abundant-hare-267
+run_uuid: 64ca9efffbc84307b96257204292de34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690994231851
+status: 3
+tags: []
+user_id: leonardodomingos

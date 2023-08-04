@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonardodomingos/Documents/LeonardoDomingosKearney/mlruns/248936078021947340/846b0ed33e0a40409d7551d8e5a15095/artifacts
+end_time: 1690938611507
+entry_point_name: ''
+experiment_id: '248936078021947340'
+lifecycle_stage: active
+run_id: 846b0ed33e0a40409d7551d8e5a15095
+run_name: intrigued-mouse-586
+run_uuid: 846b0ed33e0a40409d7551d8e5a15095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690938232114
+status: 3
+tags: []
+user_id: leonardodomingos
